@@ -6,7 +6,7 @@ import datetime
 import wikipedia
 import openai
 command = "text"
-openai.api_key = "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"
+openai.api_key = "Use you own API key"
 model_engine = "text-davinci-003"
 
 
